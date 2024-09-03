@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kubernetes Examples
 
 This directory contains a number of examples of how to run real applications
@@ -28,3 +29,6 @@ in this directory, and what examples should contain.
 ### Contributing
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to contribute.
+=======
+# Guestbook-Go
+>>>>>>> 24a73ecec754d6353d73d8ccd7eeea533319128d
